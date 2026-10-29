@@ -3,6 +3,9 @@
 <!-- 
 中等职业学校公共基础课程教学标准
 http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_zzggkdg/
+
+职业教育专业教学标准-2025年修（制）订
+http://www.moe.gov.cn/s78/A07/zcs_ztzl/2017_zt06/17zt06_bznr/bznr_zyjyzyjxbz/
 -->
 
 ### 2019年版
